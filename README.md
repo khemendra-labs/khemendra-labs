@@ -8,23 +8,23 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://in.linkedin.com/in/khemendrasinghkhangarot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@YOUR-MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://twitter.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/YOUR-THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://khemendra-labs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:mail4khemendra@gmail.com"><img src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GH-USERNAME&label=Profile%20Views&color=0d47a1&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR-GH-USERNAME?label=Followers&style=for-the-badge&color=0d47a1"/>
-<img src="https://img.shields.io/github/stars/YOUR-GH-USERNAME?label=Stars&style=for-the-badge&color=0d47a1"/>
+<img src="https://komarev.com/ghpvc/?username=khemendra-labs&label=Profile%20Views&color=0d47a1&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/khemendra-labs?label=Followers&style=for-the-badge&color=0d47a1"/>
+<img src="https://img.shields.io/github/stars/khemendra-labs?label=Stars&style=for-the-badge&color=0d47a1"/>
 
 </div>
 
 <br/>
 
-> Replace every `YOUR-GH-USERNAME`, `YOUR-LINKEDIN`, `YOUR-MEDIUM`, `YOUR-X-HANDLE`, `YOUR-THM`, and `YOUR-EMAIL` placeholder below with your real handles before publishing — GitHub widgets and shields only render once the username is correct.
+> Only two placeholders remain: `YOUR-MEDIUM` and `YOUR-X-HANDLE`. Fill those in once those accounts are ready — everything else (GitHub, LinkedIn, email, portfolio) is already wired to your real links.
 
 <br/>
 
@@ -247,64 +247,21 @@ mission:         Build tools that make evidence reproducible and defensible
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GH-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GH-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khemendra-labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khemendra-labs&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GH-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemendra-labs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GH-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khemendra-labs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="97%"/>
 
 </div>
-
-<br/>
-
-## ⟢ Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-GH-USERNAME/YOUR-GH-USERNAME/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-</div>
-
-<details>
-<summary>GitHub Action workflow to generate the snake above</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR-GH-USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <br/>
 
 ## ⟢ Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GH-USERNAME&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=khemendra-labs&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 **Current Milestones**
@@ -405,13 +362,12 @@ while (curiosity) {
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GH-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/khemendra-labs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://in.linkedin.com/in/khemendrasinghkhangarot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@YOUR-MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://twitter.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://discord.com/users/YOUR-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/YOUR-THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://khemendra-labs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:mail4khemendra@gmail.com"><img src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
