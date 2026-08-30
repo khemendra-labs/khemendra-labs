@@ -1,140 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:0d2a43,100:0d47a1&height=220&section=header&text=KHEMENDRA%20LABS&fontSize=48&fontColor=00d9ff&fontAlignY=38&desc=Cybersecurity%20%7C%20Security%20Engineering%20%7C%20Digital%20Forensics&descAlignY=59&descColor=9edcff&animation=fadeIn" width="100%"/>
+# `khemendra-labs`
+
+### `security • systems • forensics`
 
 <br>
 
-<a href="https://github.com/khemendra-labs">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://in.linkedin.com/in/khemendrasinghkhangarot">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://khemendra-labs.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:mail4khemendra@gmail.com">
-<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   I BUILD THINGS TO UNDERSTAND HOW THEY BREAK.          │
+│                                                          │
+│   I study cybersecurity by building, testing,           │
+│   investigating, and taking systems apart.               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Security+Tool+Development;Digital+Forensics+%26+Network+Security;Building.+Testing.+Learning." alt="Typing SVG"/>
+<a href="https://github.com/khemendra-labs">GitHub</a>
+  ·   <a href="https://in.linkedin.com/in/khemendrasinghkhangarot">LinkedIn</a>
+  ·   <a href="https://khemendra-labs.vercel.app/">Portfolio</a>
+  ·   <a href="mailto:mail4khemendra@gmail.com">Email</a>
 
 </div>
 
 <br>
+
+---
+
+### `whoami`
+
+```text
+Khemendra Singh Khangarot
+
+MCA Student
+Cybersecurity
+Digital Forensics
+Security Tool Development
+```
+
+I'm currently pursuing my **Master of Computer Applications (MCA)** and building my skills through hands-on cybersecurity projects.
+
+My interests are around **cybersecurity, digital forensics, network security, endpoint security, and security tooling**.
+
+I learn best by building something, testing it against reality, finding where it fails, and understanding why.
+
+That's what this GitHub is about.
+
+---
 
 <div align="center">
 
-# Hi, I'm Khemendra Singh Khangarot
-
-### MCA Student · Cybersecurity Enthusiast · Security Tool Builder
+```text
+        ┌─────────────┐
+        │    IDEA     │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    BUILD    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    BREAK    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │  UNDERSTAND │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   IMPROVE   │
+        └─────────────┘
+```
 
 </div>
 
 ---
 
-## About Me
+## `currently building`
 
-I'm currently pursuing a **Master of Computer Applications (MCA)**.
+### AEGIS Firewall
 
-My primary interests are **cybersecurity, digital forensics, network security, and security tool development**.
+> **An endpoint firewall & security monitoring platform.**
 
-I like learning by building — taking security concepts, understanding how they work at the system level, and turning them into practical projects.
+AEGIS is my main security engineering project.
 
-One of my main projects is **AEGIS Firewall**, an endpoint firewall and security monitoring platform focused on areas such as:
+I'm working on the system around **network telemetry, process attribution, threat intelligence, network visibility, investigation, and firewall enforcement**.
 
-* Network telemetry
-* Process attribution
-* Threat intelligence
-* Network visibility
-* Firewall enforcement
-* Security investigation
+The interesting part isn't just making a firewall rule.
 
-Alongside AEGIS, I work on smaller projects and experiments involving **Python, networking, Linux, Windows, security analysis, and automation**.
+It's understanding the chain:
+
+```text
+network event
+      ↓
+what happened?
+      ↓
+which process?
+      ↓
+who / what is involved?
+      ↓
+is it suspicious?
+      ↓
+what should happen?
+      ↓
+was the action actually enforced?
+```
+
+I'm building AEGIS to explore that entire problem from the system level.
 
 ---
 
-## What I Work With
+## `what interests me`
 
 ```text
-Programming
-Python · C · JavaScript
+CYBERSECURITY
+├── Endpoint Security
+├── Network Security
+├── Threat Intelligence
+└── Security Tooling
 
-Systems
-Windows · Linux
+DIGITAL FORENSICS
+├── Evidence
+├── Artifact Analysis
+├── Investigation
+└── Automation
 
-Networking
-TCP/IP · VLAN · OSPF · RIP · SSH · Wireshark
+MALWARE RESEARCH
+├── Android
+├── Static Analysis
+├── Dynamic Analysis
+└── Reverse Engineering
 
-Security
-Digital Forensics · Network Security
-Endpoint Security · Threat Intelligence
-Security Automation · Malware Research
-
-Tools
-Git · GitHub · Cisco Packet Tracer
+SYSTEMS
+├── Windows
+├── Linux
+├── Networking
+└── Security Architecture
 ```
 
 ---
 
-## My Approach
+## `the lab`
 
-I don't want to simply collect security tools or certifications.
+I don't treat every repository here as a finished product.
 
-I want to understand **how things actually work**.
+Some are **projects**.
+
+Some are **experiments**.
+
+Some are **learning exercises**.
+
+Some are ideas that eventually become something bigger.
+
+I keep them public because the process matters too — the architecture, the mistakes, the experiments, the fixes, and the things I learn along the way.
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Test
-  ↓
-Break
-  ↓
-Understand
-  ↓
-Improve
+research → build → test → investigate → improve
 ```
 
-That mindset is what drives most of the projects you'll find here.
-
 ---
 
 <div align="center">
 
-### Currently building
+### No inflated titles.
 
-## AEGIS FIREWALL
+### No pretending to know everything.
 
-**Endpoint Firewall & Security Monitoring Platform**
+**Just learning cybersecurity by actually building things.**
 
 <br>
 
-<a href="https://github.com/khemendra-labs">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-0d47a1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Khemendra Labs`
 
 </div>
-
----
-
-<div align="center">
-
-### Learn by building.
-
-### Build with purpose.
-
-### Keep improving.
-
-<br>
-
-<sub>Khemendra Labs · Cybersecurity & Security Engineering</sub>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:080c14&height=100&section=footer" width="100%"/>
