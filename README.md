@@ -1,386 +1,578 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a5c,100:0d47a1&height=220&section=header&text=KHEMENDRA%20LABS&fontSize=46&fontColor=00d9ff&fontAlignY=38&desc=Research.%20Investigate.%20Document.%20Automate.&descAlignY=58&descColor=8ecfff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,45:0d2438,100:0d47a1&height=240&section=header&text=KHEMENDRA%20LABS&fontSize=52&fontColor=00d9ff&fontAlignY=38&desc=Security%20Engineering%20%7C%20Digital%20Forensics%20%7C%20Cyber%20Research&descAlignY=59&descColor=b8ddff&animation=fadeIn" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Digital+Forensics+%26+Incident+Response;Android+Malware+Analysis;DFIR+Automation+Engineer;Cloud+Forensics+%7C+AWS+%2F+Azure+%2F+GCP;Linux+Security+%26+Hardening;Cybercrime+Investigation;Evidence-Based+Security+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Build+Security+Systems%2C+Not+Just+Security+Scripts.;Digital+Forensics+%26+Incident+Response;Endpoint+Security+%26+Network+Defense;Malware+Analysis+%26+Android+Research;Security+Automation+%26+Threat+Intelligence;Research.+Build.+Validate.+Document." alt="Typing SVG"/>
 
-<br/><br/>
+<br><br>
 
-<a href="https://in.linkedin.com/in/khemendrasinghkhangarot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@YOUR-MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://khemendra-labs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:mail4khemendra@gmail.com"><img src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/khemendra-labs">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://in.linkedin.com/in/khemendrasinghkhangarot">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://khemendra-labs.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:mail4khemendra@gmail.com">
+<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=khemendra-labs&label=Profile%20Views&color=0d47a1&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/khemendra-labs?label=Followers&style=for-the-badge&color=0d47a1"/>
-<img src="https://img.shields.io/github/stars/khemendra-labs?label=Stars&style=for-the-badge&color=0d47a1"/>
+<img src="https://komarev.com/ghpvc/?username=khemendra-labs&label=PROFILE+VIEWS&color=0d47a1&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/khemendra-labs?label=FOLLOWERS&style=for-the-badge&color=0d47a1"/>
+<img src="https://img.shields.io/github/stars/khemendra-labs?label=STARS&style=for-the-badge&color=0d47a1"/>
 
 </div>
 
-<br/>
+---
 
-> Only two placeholders remain: `YOUR-MEDIUM` and `YOUR-X-HANDLE`. Fill those in once those accounts are ready — everything else (GitHub, LinkedIn, email, portfolio) is already wired to your real links.
+# `01` — About
 
-<br/>
+### Khemendra Singh Khangarot
 
-## ⟢ About Me
+**Security Engineering · Digital Forensics · Cybersecurity Research**
 
-I'm **Khemendra Singh Khangarot**, an MCA candidate working at the intersection of **digital forensics, incident response, and applied Python security engineering**. My work centers on building tools that turn raw artifacts — logs, disk images, memory dumps, mobile extractions, cloud audit trails — into evidence that holds up to scrutiny.
+I build security tools, forensic utilities, and investigative systems focused on turning complex technical data into **useful, reproducible, and defensible results**.
 
-I care about **reproducibility over cleverness**: every tool I build is designed so another analyst can re-run it, verify the output, and trust the chain of custody. My current focus spans Android malware triage, cloud forensic automation, and Linux hardening, with reverse engineering as an active area of study rather than a claimed specialty.
+My interests span:
 
+* Digital Forensics & Incident Response
+* Endpoint Security
+* Network Security
+* Malware Analysis
+* Android Security Research
+* Threat Intelligence
+* Cloud Forensics
+* Security Automation
+* Linux Security
+* Security Assessment
+
+I am particularly interested in the space where **security research becomes production software**.
+
+```text
+Research
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Runtime Validation
+   ↓
+Documentation
+   ↓
+Release
 ```
-Evidence-first engineering.  Curiosity-driven research.  Ethical security.
+
+> **Don't just build something that works. Build something you can prove works.**
+
+---
+
+# `02` — What I'm Building
+
+<div align="center">
+
+## AEGIS FIREWALL
+
+### Intelligent Endpoint Firewall & Security Monitoring Platform
+
+</div>
+
+AEGIS is my primary security engineering project: a native endpoint security platform designed to combine **network visibility, process attribution, threat intelligence, investigation, and firewall enforcement** into one system.
+
+```text
+                         AEGIS
+                           │
+             ┌─────────────┼─────────────┐
+             ↓             ↓             ↓
+        Telemetry      Intelligence    Policy
+             │             │             │
+             └─────────────┼─────────────┘
+                           ↓
+                    Investigation
+                           ↓
+                     Enforcement
+                           ↓
+                    Verified State
 ```
 
-<br/>
+### Core Engineering Areas
 
-## ⟢ Terminal
+| Area              | Capability                           |
+| ----------------- | ------------------------------------ |
+| **Telemetry**     | Native Windows socket telemetry      |
+| **Attribution**   | Process-to-network attribution       |
+| **Enforcement**   | Windows Firewall integration         |
+| **Threat Intel**  | Local indicator ingestion & lookup   |
+| **Profiles**      | HOME / WORK / PUBLIC / CUSTOM        |
+| **Network**       | Live differential topology           |
+| **Investigation** | Inspect / Matrix workflows           |
+| **Response**      | IP blocking & application quarantine |
+| **Interface**     | Native desktop security console      |
+| **Backend**       | Privileged Rust security service     |
+| **CLI**           | Command-line operational interface   |
 
-```bash
-root@khemendra-labs:~$ whoami
-```
+### Engineering Principle
 
-```yaml
-role:            Cybercrime Investigation Intern
-organization:    Delhi Police Cyber Cell
-education:       Master of Computer Applications (MCA)
-focus:           Digital Forensics · Incident Response · Android Malware Analysis
-languages:       Python, Bash, JavaScript, C
-platforms:       Linux, Windows, Android, AWS, Azure, GCP
-research:        Cloud Forensics · Memory Forensics · Threat Intelligence
-current_work:    DFIR automation tooling, malware triage platform, cloud log analysis
-learning:        Reverse Engineering, Android Internals, Threat Hunting
-mission:         Build tools that make evidence reproducible and defensible
-```
+**Observe → Understand → Decide → Enforce → Verify**
 
-<br/>
+AEGIS is being developed with an emphasis on **real runtime behavior**, not just compilation or UI demonstrations.
 
-## ⟢ Skills
+---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+# `03` — Projects
 
-**Programming**
-
-<img src="https://skillicons.dev/icons?i=python,bash,js,c" />
-
-**Operating Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,windows,androidstudio" />
-
-</td>
-<td valign="top" width="50%">
-
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,wireshark" />
-
-</td>
-</tr>
-</table>
-
-**Security Domains**
-
-![DFIR](https://img.shields.io/badge/DFIR-0d47a1?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0d47a1?style=flat-square)
-![Memory Forensics](https://img.shields.io/badge/Memory%20Forensics-0d47a1?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-0d47a1?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0d47a1?style=flat-square)
-![Linux Hardening](https://img.shields.io/badge/Linux%20Hardening-0d47a1?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-0d47a1?style=flat-square)
-
-**Forensics & Analysis Toolset**
-
-![ADB](https://img.shields.io/badge/ADB-00d9ff?style=flat-square&logoColor=black)
-![Frida](https://img.shields.io/badge/Frida-00d9ff?style=flat-square&logoColor=black)
-![Volatility](https://img.shields.io/badge/Volatility-00d9ff?style=flat-square&logoColor=black)
-![Autopsy](https://img.shields.io/badge/Autopsy-00d9ff?style=flat-square&logoColor=black)
-![FTK](https://img.shields.io/badge/FTK-00d9ff?style=flat-square&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-00d9ff?style=flat-square&logoColor=black)
-![iLEAPP](https://img.shields.io/badge/iLEAPP-00d9ff?style=flat-square&logoColor=black)
-![aLEAPP](https://img.shields.io/badge/aLEAPP-00d9ff?style=flat-square&logoColor=black)
-![Magnet AXIOM](https://img.shields.io/badge/Magnet%20AXIOM-00d9ff?style=flat-square&logoColor=black)
-![YARA](https://img.shields.io/badge/YARA-00d9ff?style=flat-square&logoColor=black)
-![Sigma](https://img.shields.io/badge/Sigma-00d9ff?style=flat-square&logoColor=black)
-![Suricata](https://img.shields.io/badge/Suricata-00d9ff?style=flat-square&logoColor=black)
-![Splunk](https://img.shields.io/badge/Splunk-00d9ff?style=flat-square&logoColor=black)
-
-<br/>
-
-## ⟢ Research Areas
-
-<table>
-<tr>
-<td width="33%" align="center"><b>Digital Forensics</b><br/><sub>Evidence acquisition & analysis</sub></td>
-<td width="33%" align="center"><b>Android Malware</b><br/><sub>Static & dynamic triage</sub></td>
-<td width="33%" align="center"><b>Cloud Forensics</b><br/><sub>AWS / Azure / GCP log analysis</sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><b>Linux Security</b><br/><sub>Hardening & auditing</sub></td>
-<td width="33%" align="center"><b>Reverse Engineering</b><br/><sub>Actively learning</sub></td>
-<td width="33%" align="center"><b>DFIR Automation</b><br/><sub>Pipelines & tooling</sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><b>Memory Forensics</b><br/><sub>Volatile artifact analysis</sub></td>
-<td width="33%" align="center"><b>Threat Intelligence</b><br/><sub>CTI feed correlation</sub></td>
-<td width="33%" align="center"><b>Evidence Collection</b><br/><sub>Chain-of-custody tooling</sub></td>
-</tr>
-</table>
-
-<br/>
-
-## ⟢ Featured Projects
+## Security Engineering
 
 <details open>
-<summary><b>🔹 SENTINEL — Cyber Threat Intelligence Platform</b></summary>
-<br/>
+<summary><b>AEGIS Firewall</b></summary>
 
-**Description:** CTI platform built for Delhi Police Cyber Cell use, aggregating open-source threat feeds and mapping findings to the MITRE ATT&CK framework.
-**Tech Stack:** `Python` `JWT Auth` `Blockchain Evidence Logging` `Splunk` `Azure Sentinel`
-**Purpose:** Give investigators a structured, auditable view of emerging threats with tamper-evident evidence logging.
-**Status:** 🟢 Active Development
+<br>
 
-</details>
+**Intelligent Endpoint Firewall & Security Monitoring Platform**
 
-<details>
-<summary><b>🔹 Malware Triage Platform</b></summary>
-<br/>
+A security platform combining endpoint telemetry, process attribution, threat intelligence, investigation workflows and firewall enforcement.
 
-**Description:** Automated malware classification and forensic triage backend for a law-enforcement cybercell workflow, paired with a native Android front end.
-**Tech Stack:** `FastAPI` `Celery` `PostgreSQL` `MinIO` `Redis` · `Kotlin / Jetpack Compose`
-**Purpose:** Speed up first-pass triage of submitted samples with automated scoring and static analysis.
-**Status:** 🟢 Active — 74 passing tests, ongoing work on scoring accuracy
+**Technology**
+
+`Rust` `Tauri v2` `React` `SQLite` `Windows API` `Windows Firewall`
+
+**Status**
+
+`ACTIVE DEVELOPMENT`
 
 </details>
 
 <details>
-<summary><b>🔹 Cloud Forensic Toolkit</b></summary>
-<br/>
+<summary><b>NetScan CLI</b></summary>
 
-**Description:** Cross-cloud forensic analysis toolkit ingesting AWS, Azure, and GCP logs, with ML-based anomaly detection.
-**Tech Stack:** `Python` `Isolation Forest` `PyTorch Autoencoder` `ReportLab`
-**Purpose:** Surface anomalous cloud activity and generate defensible, report-ready PDF summaries.
-**Status:** 🟢 Active — 74 passing tests
+<br>
 
-</details>
+Command-line network reconnaissance and analysis tooling developed as part of my security engineering work.
 
-<details>
-<summary><b>🔹 Nyaya AI Platform</b></summary>
-<br/>
+**Technology**
 
-**Description:** Offline-first legal intelligence platform (originally a Telegram legal-query bot), architected as a multi-client system spanning Telegram, web, Android, iOS, desktop, CLI, and REST API.
-**Tech Stack:** `FastAPI` `Qdrant` `Ollama / Llama 3 8B` `Redis` `Docker Compose`
-**Purpose:** Deliver grounded legal-knowledge retrieval (BNS, BNSS, BSA, CrPC, Evidence Act) with a clean/hexagonal architecture and an evaluation framework for hallucination and citation accuracy.
-**Status:** 🟡 In Progress — latency optimization ongoing
+`Python` `Networking` `TCP/IP`
+
+**Focus**
+
+Network discovery, analysis and security-oriented enumeration.
 
 </details>
 
 <details>
-<summary><b>🔹 Frida-Framework</b></summary>
-<br/>
+<summary><b>Secure Campus Network</b></summary>
 
-**Description:** Instrumentation scripts and utilities built on Frida for dynamic analysis of Android applications.
-**Tech Stack:** `Python` `Frida` `Android`
-**Purpose:** Support dynamic malware and app-behavior analysis during Android forensic investigations.
-**Status:** 🟡 In Progress
+<br>
+
+Network security architecture project focused on segmentation, routing and controlled access.
+
+**Technology**
+
+`Cisco Packet Tracer` `VLAN` `OSPF` `RIP` `SSH`
+
+**Focus**
+
+Secure network architecture and infrastructure design.
+
+</details>
+
+---
+
+## Digital Forensics & Malware Research
+
+<details>
+<summary><b>Malware Triage Platform</b></summary>
+
+<br>
+
+A structured malware-triage system designed to automate repetitive first-pass analysis and organize investigative results.
+
+**Technology**
+
+`FastAPI` `Celery` `PostgreSQL` `Redis` `MinIO`
+
+**Research Areas**
+
+`Malware Analysis` `Static Analysis` `Forensic Triage` `Automation`
+
+**Status**
+
+`ACTIVE DEVELOPMENT`
 
 </details>
 
 <details>
-<summary><b>🔹 Linux Security Hardening</b></summary>
-<br/>
+<summary><b>Frida Android Research</b></summary>
 
-**Description:** Scripts and configuration baselines for auditing and hardening Linux systems.
-**Tech Stack:** `Bash` `Linux`
-**Purpose:** Provide a repeatable hardening checklist and automation for common misconfigurations.
-**Status:** 🟢 Active
+<br>
+
+Instrumentation scripts and utilities for dynamic Android application analysis.
+
+**Technology**
+
+`Python` `Frida` `ADB` `Android`
+
+**Focus**
+
+Runtime behavior analysis, instrumentation and security research.
+
+**Status**
+
+`IN PROGRESS`
 
 </details>
 
 <details>
-<summary><b>🔹 Enterprise Network Testing</b></summary>
-<br/>
+<summary><b>Cloud Forensic Toolkit</b></summary>
 
-**Description:** Toolkit for testing and assessing enterprise network configurations and exposure.
-**Tech Stack:** `Python` `Networking`
-**Purpose:** Identify misconfigurations and exposure points in enterprise network setups.
-**Status:** 🟡 In Progress
+<br>
+
+Cross-cloud forensic analysis tooling focused on collecting and analyzing cloud audit data.
+
+**Platforms**
+
+`AWS` `Azure` `GCP`
+
+**Technology**
+
+`Python` `Machine Learning` `ReportLab`
+
+**Focus**
+
+Cloud investigation, anomaly detection and report generation.
+
+**Status**
+
+`ACTIVE DEVELOPMENT`
+
+</details>
+
+---
+
+## Security Automation
+
+<details>
+<summary><b>Linux Security Hardening</b></summary>
+
+<br>
+
+Repeatable auditing and hardening scripts for Linux systems.
+
+**Technology**
+
+`Bash` `Linux`
+
+**Focus**
+
+Configuration auditing, security baselines and automated remediation.
 
 </details>
 
 <details>
-<summary><b>🔹 SessionID Capture</b></summary>
-<br/>
+<summary><b>Enterprise Network Testing</b></summary>
 
-**Description:** Utility for capturing and analyzing session identifiers for security research purposes.
-**Tech Stack:** `Python`
-**Purpose:** Support research into session-handling weaknesses.
-**Status:** 🟡 In Progress
+<br>
+
+Security assessment utilities for identifying network exposure and configuration weaknesses.
+
+**Technology**
+
+`Python` `Networking`
+
+**Status**
+
+`IN PROGRESS`
 
 </details>
 
-<br/>
+---
 
-## ⟢ Current Learning
+# `04` — Security Stack
 
-![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-0d47a1?style=flat-square)
-![Memory Analysis](https://img.shields.io/badge/-Memory%20Analysis-0d47a1?style=flat-square)
-![Android Internals](https://img.shields.io/badge/-Android%20Internals-0d47a1?style=flat-square)
-![Malware RE](https://img.shields.io/badge/-Malware%20Reverse%20Engineering-0d47a1?style=flat-square)
-![Cloud DFIR](https://img.shields.io/badge/-Cloud%20DFIR-0d47a1?style=flat-square)
-![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-0d47a1?style=flat-square)
+### Languages
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js,bash,rust,kotlin"/>
+</p>
 
-## ⟢ GitHub Statistics
+### Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows,android"/>
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker"/>
+</p>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postgresql,react"/>
+</p>
+
+### Security & Forensics
+
+`Wireshark` · `Volatility` · `Autopsy` · `FTK` · `Magnet AXIOM`
+
+`YARA` · `Sigma` · `Suricata` · `Frida` · `ADB`
+
+`iLEAPP` · `aLEAPP` · `Splunk`
+
+---
+
+# `05` — Research Areas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khemendra-labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khemendra-labs&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff" />
+|    🔎 Forensics   |     🛡️ Security    |      🦠 Malware     |
+| :---------------: | :-----------------: | :-----------------: |
+| Digital Forensics |  Endpoint Security  |   Android Analysis  |
+|  Memory Forensics |   Network Security  |   Static Analysis   |
+| Artifact Analysis | Threat Intelligence |   Dynamic Analysis  |
+| Incident Response | Security Automation | Reverse Engineering |
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemendra-labs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khemendra-labs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="97%"/>
-
-</div>
-
-<br/>
-
-## ⟢ Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khemendra-labs&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-**Current Milestones**
-- Building and maintaining a production-grade DFIR toolchain across malware triage, cloud forensics, and legal-tech retrieval
-- Sustained test coverage discipline (74+ passing tests across active backends)
-
-**Open Source Goals**
-- Publish reusable DFIR utility modules (evidence hashing, chain-of-custody logging, artifact parsers)
-- Contribute upstream to established forensic tooling projects
-
-**Research Goals**
-- Formalize Android malware analysis workflows into a documented methodology
-- Publish reproducible cloud forensic detection benchmarks
-
-<br/>
-
-## ⟢ Certifications
-
-<div align="center">
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![EC-Council CEH](https://img.shields.io/badge/EC--Council-CEH-red?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![LetsDefend](https://img.shields.io/badge/LetsDefend-0d47a1?style=for-the-badge)
+|       ☁️ Cloud      | 🐧 Infrastructure |  ⚙️ Engineering  |
+| :-----------------: | :---------------: | :--------------: |
+|    AWS Forensics    |   Linux Security  |       Rust       |
+|   Azure Forensics   |  System Hardening |      Python      |
+|    GCP Forensics    |  Network Analysis | Security Tooling |
+| Cloud Investigation |     Detection     |    Automation    |
 
 </div>
 
-> Certification badges above reflect programs actively pursued or completed. Update this section directly as new certificates are earned — avoid listing anything not yet finished.
+---
 
-<br/>
+# `06` — How I Approach Security Engineering
 
-## ⟢ Blog
+I prefer **evidence-driven engineering** over feature-driven development.
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 01 — Understand
 
-<details>
-<summary>GitHub Action workflow to auto-populate latest Medium posts</summary>
+Understand the problem, threat model and expected behavior.
 
-```yaml
-# .github/workflows/blog-post-workflow.yml
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+### 02 — Architect
 
-jobs:
-  update-readme-with-blog:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://medium.com/feed/@YOUR-MEDIUM"
+Design the system before implementation becomes difficult to change.
+
+### 03 — Implement
+
+Build modular components with clear responsibilities.
+
+### 04 — Test
+
+Use automated tests to validate individual components.
+
+### 05 — Validate
+
+Test the actual runtime behavior and real system integrations.
+
+### 06 — Review
+
+Challenge assumptions, identify edge cases and fix weaknesses.
+
+### 07 — Document
+
+Make the implementation understandable and reproducible.
+
+```text
+┌───────────────┐
+│   RESEARCH    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  ARCHITECTURE │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ IMPLEMENTATION│
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    TESTING    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ RUNTIME VALID │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    RELEASE    │
+└───────────────┘
 ```
 
-</details>
+---
 
-<br/>
+# `07` — Current Learning
 
-## ⟢ Roadmap
+```text
+Reverse Engineering
+████░░░░░░░░░░░░
+
+Android Internals
+██████░░░░░░░░░░
+
+Memory Forensics
+██████░░░░░░░░░░
+
+Malware Analysis
+██████░░░░░░░░░░
+
+Cloud DFIR
+███████░░░░░░░░░
+
+Threat Hunting
+█████░░░░░░░░░░░
+```
+
+### Current direction
+
+**Learn deeply → build practically → validate experimentally → document publicly**
+
+---
+
+# `08` — Open Source Goals
+
+I want my GitHub to become more than a collection of projects.
+
+The long-term goal is to build a reusable ecosystem of **security and forensic engineering components**.
+
+```text
+KHEMENDRA LABS
+│
+├── Security Engineering
+│   ├── Endpoint Security
+│   ├── Network Security
+│   └── Security Automation
+│
+├── Digital Forensics
+│   ├── Artifact Parsers
+│   ├── Evidence Utilities
+│   └── Investigation Automation
+│
+├── Malware Research
+│   ├── Android Analysis
+│   ├── Dynamic Instrumentation
+│   └── Triage Tooling
+│
+└── Research
+    ├── Detection
+    ├── Threat Intelligence
+    └── Reproducible Experiments
+```
+
+The goal isn't to create the **most repositories**.
+
+The goal is to create repositories that are **useful enough for someone else to use**.
+
+---
+
+# `09` — 2026 Roadmap
 
 ```text
 2026
-├── Android Malware Analysis     ▓▓▓▓▓▓▓▓▓░  active
-├── Cloud Forensics              ▓▓▓▓▓▓▓░░░  active
-├── DFIR Automation              ▓▓▓▓▓▓▓▓░░  active
-├── Reverse Engineering          ▓▓▓░░░░░░░  learning
-└── Open Source Contributions    ▓▓░░░░░░░░  starting
-
-Beyond
-├── Malware Research
-├── Security Engineering
-├── Threat Hunting
-└── Digital Evidence Specialization
+│
+├── █████████░  AEGIS Firewall
+├── ████████░░  DFIR Automation
+├── ███████░░░  Android Malware Research
+├── ███████░░░  Cloud Forensics
+├── ██████░░░░  Memory Forensics
+├── ████░░░░░░  Reverse Engineering
+└── ███░░░░░░░  Open Source Contributions
+│
+└── Next
+    ├── Advanced Malware Research
+    ├── Threat Hunting
+    ├── Detection Engineering
+    └── Digital Evidence Specialization
 ```
 
-<br/>
+---
 
-## ⟢ Philosophy
-
-```c
-while (curiosity) {
-    acquireEvidence();
-    preserveChainOfCustody();
-    analyze();
-    validate();
-    document();
-    automate();
-    shareKnowledge();
-}
-```
-
-<br/>
-
-## ⟢ Connect
+# `10` — GitHub
 
 <div align="center">
 
-<a href="https://github.com/khemendra-labs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://in.linkedin.com/in/khemendrasinghkhangarot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@YOUR-MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://khemendra-labs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:mail4khemendra@gmail.com"><img src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=khemendra-labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khemendra-labs&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+
+<br>
+
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemendra-labs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khemendra-labs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="96%"/>
 
 </div>
 
-<br/>
+---
+
+# `11` — Philosophy
+
+```python
+while curious:
+
+    evidence = acquire()
+    preserve(evidence)
+
+    result = investigate(evidence)
+
+    validate(result)
+    document(result)
+
+    automate(repeatable_work)
+
+    share(knowledge)
+```
+
+> **Evidence before assumptions.**
+> **Architecture before complexity.**
+> **Validation before confidence.**
+> **Documentation before ambiguity.**
+
+---
+
+# `12` — Connect
 
 <div align="center">
 
-──────────────────────────────────────────────
+<a href="https://github.com/khemendra-labs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Khemendra Labs** · Evidence-first engineering.
+<a href="https://in.linkedin.com/in/khemendrasinghkhangarot">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-──────────────────────────────────────────────
+<a href="https://khemendra-labs.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:mail4khemendra@gmail.com">
+<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<br><br>
+
+### Khemendra Labs
+
+<i>Research. Build. Validate. Document.</i>
+
+<br><br>
+
+<sub>Security engineering with an evidence-first mindset.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:050b14&height=120&section=footer" width="100%"/>
