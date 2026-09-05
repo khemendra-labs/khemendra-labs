@@ -103,7 +103,8 @@ _Updates automatically on the next workflow run_
 ### ✍️ Latest Write-ups
 
 <!-- BLOG-POST-LIST:START -->
-_Updates automatically on the next workflow run_
+- [From Concept to Code: Developing a Numerology App](https://medium.com/@mail4khemendra/from-concept-to-code-developing-a-numerology-app-9329566b5c7f?source=rss-546c3289872c------2)
+- [Malware Analysis : Crack the Lab Walkthrough](https://medium.com/@mail4khemendra/malware-analysis-crack-the-lab-walkthrough-2d4d6fba115f?source=rss-546c3289872c------2)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
