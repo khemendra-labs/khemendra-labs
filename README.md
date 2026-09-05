@@ -40,6 +40,48 @@
 
 </div>
 
+<!-- ===== 3D CONTRIBUTION CALENDAR ===== -->
+<br/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/khemendra-labs/khemendra-labs/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+
+</div>
+
+<!-- ===== NOW WORKING ON (auto-updated) ===== -->
+<br/>
+<div align="center">
+
+### 🔭 Currently Working On
+
+<!-- NOW:START -->
+_Updates automatically on the next workflow run_
+<!-- NOW:END -->
+
+</div>
+
+<!-- ===== TROPHIES ===== -->
+<br/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khemendra-labs&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+
+</div>
+
+<!-- ===== HACKING PLATFORM BADGES ===== -->
+<br/>
+<div align="center">
+
+<a href="https://tryhackme.com/p/khemendralabs">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/khemendralabs.png" alt="TryHackMe Badge" height="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/profile/019e98ee-901f-71c6-b91a-f328554cbb1d">
+  <img src="https://www.hackthebox.com/badge/image/019e98ee-901f-71c6-b91a-f328554cbb1d" alt="Hack The Box Badge" height="52" />
+</a>
+
+</div>
+
 <!-- ===== PROJECTS (auto-updated) ===== -->
 <br/>
 <div align="center">
@@ -54,7 +96,25 @@
 
 </div>
 
+<!-- ===== BLOG POSTS (auto-updated) ===== -->
+<br/>
+<div align="center">
+
+### ✍️ Latest Write-ups
+
+<!-- BLOG-POST-LIST:START -->
+_Updates automatically on the next workflow run_
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
 <!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=khemendra-labs&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 <br/>
 <div align="center">
 
