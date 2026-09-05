@@ -42,14 +42,6 @@
 
 </div>
 
-<!-- ===== 3D CONTRIBUTION CALENDAR ===== -->
-<br/>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/khemendra-labs/khemendra-labs/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-
-</div>
-
 <!-- ===== PROJECTS (auto-fetched from public repos) ===== -->
 <br/>
 <div align="center">
