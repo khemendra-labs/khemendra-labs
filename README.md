@@ -1,93 +1,80 @@
 <div align="center">
 
-<p><code>khemendra-labs@github ~ $ ./maintainer.sh</code></p>
+# Khemendra Singh Khangarot
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Khemendra Singh Khangarot animated maintainer system scan" />
-</picture>
-</p>
+### Security-minded software builder · DFIR · threat research · practical AI
+
+I build tools that help people **understand systems, investigate signals, and make better security decisions** — from local-first telemetry and endpoint protection to intelligence platforms and source-grounded AI.
+
+[![GitHub](https://img.shields.io/badge/GitHub-khemendra--labs-181717?style=for-the-badge&logo=github)](https://github.com/khemendra-labs)
+[![Website](https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khemendra-labs.vercel.app/)
+
 </div>
 
-<h2>Why I build in public</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Python</code> · <code>TypeScript</code> · <code>Rust</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>7 public repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>41 contributions · 13 active days</p></td>
-</tr>
-</table>
+## What I do
 
-<p>DFIR &amp; Malware Research | Khemendra Labs</p>
+I work across **cybersecurity, digital forensics and incident response (DFIR), threat intelligence, and software engineering**. My projects turn complex technical data into useful workflows: collect and analyze telemetry, connect evidence, surface findings, and present them clearly.
 
-<h2>Open-source toolbox</h2>
+I care about systems that are **useful, explainable, privacy-conscious, and grounded in evidence**—not just impressive demos.
 
-<p><code>khemendra-labs@github ~ $ toolbox --list</code></p>
+- **Security engineering:** endpoint security, monitoring, detection, and investigation tools
+- **DFIR & research:** forensic workflows, malware research, and technical write-ups
+- **Intelligence platforms:** collecting and connecting public information for investigation
+- **Applied AI:** building AI-assisted tools with an emphasis on sources and verifiability
+- **Product-minded development:** taking ideas through architecture, implementation, and interface
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Khemendra Singh Khangarot open-source technology toolbox" />
-</picture>
-</p>
+## Selected work
 
-<table width="100%">
-<tr>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>61%</sub></td>
-<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>21%</sub></td>
-<td width="17%" align="center"><strong>Rust</strong><br /><sub>10%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>4%</sub></td>
-<td width="17%" align="center"><strong>PowerShell</strong><br /><sub>3%</sub></td>
-<td width="17%" align="center"><strong>Shell</strong><br /><sub>0%</sub></td>
-</tr>
-</table>
+### [LogIntel](https://github.com/khemendra-labs/LogIntel)
+**Local-first Linux security telemetry and investigation platform.** Collects system logs, normalizes security events, and makes them searchable through a desktop investigation interface. Built with Python, FastAPI, SQLite, Tauri, React, and TypeScript.
 
-<h2>Repositories worth exploring</h2>
+### [ANVESH](https://github.com/khemendra-labs/ANVESH)
+**Public-information investigation platform.** Helps analysts discover digital footprints, map relationships between entities, assess attack surfaces, and produce evidence-backed reports.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&repos=khemendra-labs%2FACIS%2Ckhemendra-labs%2FWatcher%2Ckhemendra-labs%2Fmalware-writeups%2Ckhemendra-labs%2FSessionID_capture&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&repos=khemendra-labs%2FACIS%2Ckhemendra-labs%2FWatcher%2Ckhemendra-labs%2Fmalware-writeups%2Ckhemendra-labs%2FSessionID_capture&v=oss-projects-1&mode=dark" width="860" alt="Khemendra Singh Khangarot maintainer repositories" />
-</picture>
-</p>
+### [WATCHER](https://github.com/khemendra-labs/Watcher)
+**Windows endpoint security and network monitoring.** A Rust-based security project with a desktop interface, firewall management, process inspection, and threat-intelligence workflows.
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/khemendra-labs/Watcher">Watcher</a></h3><p>A public project looking for its next contributor.</p><p><sub>Rust · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/khemendra-labs/malware-writeups">malware-writeups</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/khemendra-labs/SessionID_capture">SessionID_capture</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
+### [NyayaAI](https://github.com/khemendra-labs/NayayaAI)
+**Source-grounded legal AI for Indian law.** Exploring retrieval, citations, temporal legal context, and multilingual access to legal information.
 
-<h2>Contribution activity</h2>
+### [ACIS](https://github.com/khemendra-labs/ACIS)
+**Adaptive cybersecurity research project.** A security monitoring and incident-response platform exploring detection, investigation, and defensive response workflows.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Khemendra Singh Khangarot open-source signal" />
-</picture>
-</p>
+### [Malware write-ups](https://github.com/khemendra-labs/malware-writeups)
+A growing collection of malware and security research notes, focused on documenting observations and learning in public.
 
-<h2>Contribution trail</h2>
+> These projects represent ongoing work and experimentation. See each repository for its current scope, status, documentation, and license.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Khemendra Singh Khangarot contribution trail" />
-</picture>
-</p>
+## Toolkit
 
-<hr />
+**Languages**  
+`Python` · `TypeScript` · `Rust` · `JavaScript` · `PowerShell` · `Shell`
 
-<h2>Contribute together</h2>
+**Areas & technologies**  
+`DFIR` · `Security telemetry` · `Threat intelligence` · `Linux` · `Windows` · `FastAPI` · `React` · `Tauri` · `SQLite` · `AI / RAG`
 
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+## How I build
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=khemendra-labs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201682405%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="Khemendra Singh Khangarot community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/khemendra-labs">GitHub</a> &nbsp;·&nbsp; <a href="https://khemendra-labs.vercel.app/">Website</a></p>
-<p align="center"><sub>Khemendra Singh Khangarot<a href=""></a></sub></p>
+- Start with the problem and the people who need the tool.
+- Prefer evidence, transparent behavior, and clear limitations.
+- Keep sensitive data local where the use case allows it.
+- Document the reasoning—not only the code.
+- Build iteratively, test assumptions, and keep learning.
+
+## For recruiters and collaborators
+
+I’m interested in opportunities and collaborations involving **security engineering, DFIR, threat research, security tooling, and applied AI**. My public repositories show how I approach architecture, implementation, and communicating technical work.
+
+- **Portfolio:** [khemendra-labs.vercel.app](https://khemendra-labs.vercel.app/)
+- **GitHub:** [github.com/khemendra-labs](https://github.com/khemendra-labs)
+- **Contact:** Please reach out through the contact information on my website or via GitHub.
+
+---
+
+<div align="center">
+
+*Building tools for clearer signals, stronger investigations, and more thoughtful security.*
+
+</div>
