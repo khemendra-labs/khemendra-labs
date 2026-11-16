@@ -1,37 +1,211 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Sharann Manojkumar"/></picture>
+<img src="banner.svg" alt="Khemendra Singh Khangarot — cybersecurity, threat intelligence, backend systems" width="100%">
 
-<a href="https://sharann.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
-<a href="https://sharann.dev/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/></picture></a>
-<a href="https://linkedin.com/in/sharannm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="https://x.com/m_sharann"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
-<a href="mailto:sharannmanojkumar@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<br>
+
+![Delhi](https://img.shields.io/badge/Delhi-India-0a1626?style=for-the-badge&logo=googlemaps&logoColor=01cfd6)
+![MCA](https://img.shields.io/badge/MCA-2027-0a1626?style=for-the-badge)
+![Focus](https://img.shields.io/badge/focus-Cybersecurity-0a1626?style=for-the-badge)
+![Building](https://img.shields.io/badge/building-Animisha-01cfd6?style=for-the-badge&labelColor=0a1626)
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Sharann"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="15 projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
+---
+
+## `> whoami`
+
+```console
+kd@khemendra-labs:~$ cat about.txt
+
+name       Khemendra Singh Khangarot (Kd)
+base       Delhi, India
+studying   MCA @ JIMS Rohini  ->  graduating Sep 2027
+           Diploma in Cyber Security @ Craw Security, Saket
+prior      BCA @ Manipal University (2024)
+works on   threat intelligence, forensics tooling, endpoint security, backend systems
+style      local-first. deterministic. explainable.
+
+kd@khemendra-labs:~$ _
+```
+
+I build security tools that tell you **why** they made a decision, and that run on your own machine instead of someone else's cloud.
+
+---
+
+## `> ./featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ♾️ [Animisha](https://github.com/khemendra-labs/Animisha)
+**Endpoint firewall & network monitor for Windows and Linux.**
+
+Shows which program owns every connection, verifies its signature and SHA-256, and enforces an 8-tier rule engine where the first match always wins. High and Critical alerts go to Telegram.
+
+![Rust](https://img.shields.io/badge/Rust-0a1626?style=flat-square&logo=rust&logoColor=ff8a4c)
+![Tauri](https://img.shields.io/badge/Tauri_v2-0a1626?style=flat-square&logo=tauri&logoColor=24c8db)
+![React](https://img.shields.io/badge/React-0a1626?style=flat-square&logo=react&logoColor=61dafb)
+![SQLite](https://img.shields.io/badge/SQLite-0a1626?style=flat-square&logo=sqlite&logoColor=63b4e8)
+![nftables](https://img.shields.io/badge/nftables-0a1626?style=flat-square&logo=linux&logoColor=white)
+
+[**Download v0.3.0 →**](https://github.com/khemendra-labs/Animisha/releases/tag/v0.3.0)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Nyaya AI Platform
+**Offline-first legal intelligence.**
+
+A retrieval-augmented platform for Indian criminal law (BNS, BNSS, BSA) that answers with citations and runs fully offline. Telegram was the first client. Web, mobile, desktop, CLI and REST come next on a clean, hexagonal core.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1626?style=flat-square&logo=fastapi&logoColor=05998b)
+![Qdrant](https://img.shields.io/badge/Qdrant-0a1626?style=flat-square&logo=qdrant&logoColor=dc244c)
+![Ollama](https://img.shields.io/badge/Ollama-0a1626?style=flat-square&logo=ollama&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0a1626?style=flat-square&logo=redis&logoColor=ff4438)
+![Docker](https://img.shields.io/badge/Docker-0a1626?style=flat-square&logo=docker&logoColor=2496ed)
+
+*In active development.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ SENTINEL
+**Cyber threat intelligence platform.**
+
+Built for law-enforcement cyber cell workflows. Pulls from public APIs, maps findings to **MITRE ATT&CK**, logs evidence to a blockchain, and plugs into Splunk and Azure Sentinel.
+
+![JWT](https://img.shields.io/badge/JWT-0a1626?style=flat-square&logo=jsonwebtokens&logoColor=d63aff)
+![Splunk](https://img.shields.io/badge/Splunk-0a1626?style=flat-square&logo=splunk&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0a1626?style=flat-square&logoColor=white)
+
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Malware Triage Platform
+**Automated classification and forensic triage.**
+
+An asynchronous pipeline that scores samples and runs static analysis for a law-enforcement cybercell, with an Android client in Kotlin and Jetpack Compose.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1626?style=flat-square&logo=fastapi&logoColor=05998b)
+![Celery](https://img.shields.io/badge/Celery-0a1626?style=flat-square&logo=celery&logoColor=a9cc54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1626?style=flat-square&logo=postgresql&logoColor=4169e1)
+![MinIO](https://img.shields.io/badge/MinIO-0a1626?style=flat-square&logo=minio&logoColor=c72e49)
+![Kotlin](https://img.shields.io/badge/Kotlin-0a1626?style=flat-square&logo=kotlin&logoColor=7f52ff)
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Forensic Toolkit
+**Anomaly detection across AWS, Azure and GCP logs.**
+
+Ingests cloud audit logs, flags suspicious behaviour with an **Isolation Forest** and a **PyTorch autoencoder**, and exports investigator-ready PDF reports.
+
+![Python](https://img.shields.io/badge/Python-0a1626?style=flat-square&logo=python&logoColor=3776ab)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1626?style=flat-square&logo=pytorch&logoColor=ee4c2c)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a1626?style=flat-square&logo=scikitlearn&logoColor=f7931e)
+
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 More from the lab
+
+- **ACIS** — Autonomous Cyber Immune System
+- **ShellSock**
+- **Virtualized Security Lab**
+- **VoidPanel** — part of the team building an open-source server control panel at **VoidOnyx LLP**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat stack.txt`
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
+![Rust](https://img.shields.io/badge/Rust-0a1626?style=for-the-badge&logo=rust&logoColor=ff8a4c)
+![Python](https://img.shields.io/badge/Python-0a1626?style=for-the-badge&logo=python&logoColor=3776ab)
+![Kotlin](https://img.shields.io/badge/Kotlin-0a1626?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1626?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![C](https://img.shields.io/badge/C-0a1626?style=for-the-badge&logo=c&logoColor=a8b9cc)
+![Java](https://img.shields.io/badge/Java-0a1626?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1626?style=for-the-badge&logo=fastapi&logoColor=05998b)
+![React](https://img.shields.io/badge/React-0a1626?style=for-the-badge&logo=react&logoColor=61dafb)
+![Tauri](https://img.shields.io/badge/Tauri-0a1626?style=for-the-badge&logo=tauri&logoColor=24c8db)
+![Celery](https://img.shields.io/badge/Celery-0a1626?style=for-the-badge&logo=celery&logoColor=a9cc54)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1626?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+![SQLite](https://img.shields.io/badge/SQLite-0a1626?style=for-the-badge&logo=sqlite&logoColor=63b4e8)
+![Redis](https://img.shields.io/badge/Redis-0a1626?style=for-the-badge&logo=redis&logoColor=ff4438)
+![Qdrant](https://img.shields.io/badge/Qdrant-0a1626?style=for-the-badge&logo=qdrant&logoColor=dc244c)
+
+![Linux](https://img.shields.io/badge/Linux-0a1626?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0a1626?style=for-the-badge&logo=docker&logoColor=2496ed)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1626?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![Splunk](https://img.shields.io/badge/Splunk-0a1626?style=for-the-badge&logo=splunk&logoColor=white)
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
+---
 
-<!-- one responsive picture per visual; no duplicate light/dark rendering -->
+## `> ls ~/focus`
+
+| | Area | What it means in practice |
+|:-:|---|---|
+| 🛡️ | **Endpoint security** | Process attribution, signature and hash verification, firewall policy engines |
+| 🔎 | **Threat intelligence** | Feed ingestion, MITRE ATT&CK mapping, indicator matching |
+| 🧫 | **Digital forensics** | Malware triage, cloud log analysis, evidence handling |
+| 🤖 | **Applied AI** | Local LLMs, RAG with citations, anomaly detection |
+| ⚙️ | **Backend systems** | APIs, queues, storage and clean architecture |
+
+---
+
+## `> cat principles.md`
+
+- **Local first.** Your data stays on your machine unless you choose otherwise.
+- **Deterministic over clever.** Same input, same decision, and you can see which rule decided it.
+- **Explain everything.** An alert without evidence is just noise.
+- **Test the boring parts.** Security tools fail in the edge cases.
+
+---
+
+## `> ls ~/certs`
+
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/Cisco-Certified-0a1626?style=for-the-badge&logo=cisco&logoColor=1ba0d7)
+![CEH](https://img.shields.io/badge/EC--Council-CEH-0a1626?style=for-the-badge&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-Certified-0a1626?style=for-the-badge&logo=fortinet&logoColor=ee3124)
+![LetsDefend](https://img.shields.io/badge/LetsDefend-Blue_Team-0a1626?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## `> ./connect`
+
+<div align="center">
+
+[![Animisha](https://img.shields.io/badge/Animisha-Download-01cfd6?style=for-the-badge&labelColor=0a1626&logo=github&logoColor=white)](https://github.com/khemendra-labs/Animisha/releases/tag/v0.3.0)
+[![GitHub](https://img.shields.io/badge/GitHub-khemendra--labs-0a1626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khemendra-labs)
+
+<!-- Add your own links here, for example:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1626?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/YOUR-HANDLE)
+-->
+
+<br>
+
+<sub>Open to internships and projects in cybersecurity.</sub>
+
+</div>
