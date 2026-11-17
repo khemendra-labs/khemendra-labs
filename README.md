@@ -50,7 +50,7 @@ Shows which program owns every connection, verifies its signature and SHA-256, a
 ![SQLite](https://img.shields.io/badge/SQLite-0a1626?style=flat-square&logo=sqlite&logoColor=63b4e8)
 ![nftables](https://img.shields.io/badge/nftables-0a1626?style=flat-square&logo=linux&logoColor=white)
 
-[**Download v0.3.0 →**](https://github.com/khemendra-labs/Animisha/releases/tag/v0.3.0)
+[**Download v1.0 →**](https://github.com/khemendra-labs/Animisha/releases/tag/v1.0)
 
 </td>
 <td width="50%" valign="top">
@@ -70,51 +70,6 @@ A retrieval-augmented platform for Indian criminal law (BNS, BNSS, BSA) that ans
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ SENTINEL
-**Cyber threat intelligence platform.**
-
-Built for law-enforcement cyber cell workflows. Pulls from public APIs, maps findings to **MITRE ATT&CK**, logs evidence to a blockchain, and plugs into Splunk and Azure Sentinel.
-
-![JWT](https://img.shields.io/badge/JWT-0a1626?style=flat-square&logo=jsonwebtokens&logoColor=d63aff)
-![Splunk](https://img.shields.io/badge/Splunk-0a1626?style=flat-square&logo=splunk&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0a1626?style=flat-square&logoColor=white)
-
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Malware Triage Platform
-**Automated classification and forensic triage.**
-
-An asynchronous pipeline that scores samples and runs static analysis for a law-enforcement cybercell, with an Android client in Kotlin and Jetpack Compose.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0a1626?style=flat-square&logo=fastapi&logoColor=05998b)
-![Celery](https://img.shields.io/badge/Celery-0a1626?style=flat-square&logo=celery&logoColor=a9cc54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1626?style=flat-square&logo=postgresql&logoColor=4169e1)
-![MinIO](https://img.shields.io/badge/MinIO-0a1626?style=flat-square&logo=minio&logoColor=c72e49)
-![Kotlin](https://img.shields.io/badge/Kotlin-0a1626?style=flat-square&logo=kotlin&logoColor=7f52ff)
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Forensic Toolkit
-**Anomaly detection across AWS, Azure and GCP logs.**
-
-Ingests cloud audit logs, flags suspicious behaviour with an **Isolation Forest** and a **PyTorch autoencoder**, and exports investigator-ready PDF reports.
-
-![Python](https://img.shields.io/badge/Python-0a1626?style=flat-square&logo=python&logoColor=3776ab)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a1626?style=flat-square&logo=pytorch&logoColor=ee4c2c)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a1626?style=flat-square&logo=scikitlearn&logoColor=f7931e)
-
-
-</td>
-<td width="50%" valign="top">
 
 ### 🧬 More from the lab
 
@@ -200,9 +155,9 @@ Ingests cloud audit logs, flags suspicious behaviour with an **Isolation Forest*
 [![Animisha](https://img.shields.io/badge/Animisha-Download-01cfd6?style=for-the-badge&labelColor=0a1626&logo=github&logoColor=white)](https://github.com/khemendra-labs/Animisha/releases/tag/v0.3.0)
 [![GitHub](https://img.shields.io/badge/GitHub-khemendra--labs-0a1626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khemendra-labs)
 
-<!-- Add your own links here, for example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1626?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/YOUR-HANDLE)
--->
+<! Add your own links here, for example:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1626?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://in.linkedin.com/in/khemendrasinghkhangarot)
+>
 
 <br>
 
