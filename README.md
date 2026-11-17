@@ -90,15 +90,12 @@ A retrieval-augmented platform for Indian criminal law (BNS, BNSS, BSA) that ans
 
 ![Rust](https://img.shields.io/badge/Rust-0a1626?style=for-the-badge&logo=rust&logoColor=ff8a4c)
 ![Python](https://img.shields.io/badge/Python-0a1626?style=for-the-badge&logo=python&logoColor=3776ab)
-![Kotlin](https://img.shields.io/badge/Kotlin-0a1626?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a1626?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![C](https://img.shields.io/badge/C-0a1626?style=for-the-badge&logo=c&logoColor=a8b9cc)
 ![Java](https://img.shields.io/badge/Java-0a1626?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a1626?style=for-the-badge&logo=fastapi&logoColor=05998b)
 ![React](https://img.shields.io/badge/React-0a1626?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Tauri](https://img.shields.io/badge/Tauri-0a1626?style=for-the-badge&logo=tauri&logoColor=24c8db)
-![Celery](https://img.shields.io/badge/Celery-0a1626?style=for-the-badge&logo=celery&logoColor=a9cc54)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1626?style=for-the-badge&logo=postgresql&logoColor=4169e1)
 ![SQLite](https://img.shields.io/badge/SQLite-0a1626?style=for-the-badge&logo=sqlite&logoColor=63b4e8)
