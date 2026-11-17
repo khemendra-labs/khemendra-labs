@@ -154,10 +154,7 @@ A retrieval-augmented platform for Indian criminal law (BNS, BNSS, BSA) that ans
 
 [![Animisha](https://img.shields.io/badge/Animisha-Download-01cfd6?style=for-the-badge&labelColor=0a1626&logo=github&logoColor=white)](https://github.com/khemendra-labs/Animisha/releases/tag/v0.3.0)
 [![GitHub](https://img.shields.io/badge/GitHub-khemendra--labs-0a1626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khemendra-labs)
-
-<! Add your own links here, for example:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1626?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://in.linkedin.com/in/khemendrasinghkhangarot)
->
 
 <br>
 
